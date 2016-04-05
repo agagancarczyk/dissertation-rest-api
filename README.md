@@ -1,5 +1,9 @@
-Node.js + Express 4 + MySQL
-===
+Rest Api for Dissertation.
+
+Tools/Technologies/DB:
+* Node.js
+* Express 4
+* MySQL
 
 ### To install:
 
